@@ -1,1 +1,1 @@
-# handwritten-digit-and-character-recognition-system
+character recognition system for south sudan dailects
